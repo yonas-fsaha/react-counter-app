@@ -23,7 +23,6 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 
 

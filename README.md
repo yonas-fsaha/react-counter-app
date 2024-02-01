@@ -1,4 +1,4 @@
-#React Counter App
+# React Counter App
 Overview
 Welcome to the React Counter App repository! This simple React application allows users to increment, decrement, and reset a counter value. It's a great starting point for learning React basics and state management.
 

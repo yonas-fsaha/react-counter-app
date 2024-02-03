@@ -12,7 +12,7 @@ Follow these instructions to get the project up and running on your local machin
 ## Prerequisites
 Make sure you have the following installed on your machine:
 
-Node.js
+### Node.js
 npm (Node Package Manager)
 Installation
 Clone the repository to your local machine:

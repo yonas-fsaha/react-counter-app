@@ -22,7 +22,7 @@ Copy code
 git clone https://github.com/your-username/react-counter-app.git
 Navigate to the project directory:
 
-bash
+### bash
 Copy code
 cd react-counter-app
 Install the dependencies:

@@ -17,7 +17,7 @@ npm (Node Package Manager)
 Installation
 Clone the repository to your local machine:
 
-bash
+### bash
 Copy code
 git clone https://github.com/your-username/react-counter-app.git
 Navigate to the project directory:

@@ -19,7 +19,7 @@ Clone the repository to your local machine:
 
 ### bash
 Copy code
-git clone https://github.com/your-username/react-counter-app.git
+git clone https://github.com/yonas-fsaha/react-counter-app.git
 Navigate to the project directory:
 
 ### bash

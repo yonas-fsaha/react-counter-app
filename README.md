@@ -38,7 +38,7 @@ Copy code
 npm start
 This will start the development server, and you can view the app by navigating to http://localhost:3000 in your web browser.
 
-Folder Structure
+### Folder Structure
 The project structure is organized as follows:
 
 public/: Contains the HTML file and other public assets.

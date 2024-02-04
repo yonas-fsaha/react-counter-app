@@ -27,7 +27,7 @@ Copy code
 cd react-counter-app
 Install the dependencies:
 
-bash
+### bash
 Copy code
 npm install
 Running the App

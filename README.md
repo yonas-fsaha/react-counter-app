@@ -50,7 +50,7 @@ package.json: Configuration file with project dependencies and scripts.
 Contributing
 If you would like to contribute to the project, feel free to fork the repository and submit a pull request. Bug reports, feature requests, and feedback are also welcome.
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments

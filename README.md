@@ -44,7 +44,7 @@ The project structure is organized as follows:
 ##### public/: Contains the HTML file and other public assets.
 ##### src/: Contains the React application source code.
 ##### components/: React components for the counter and other UI elements.
-App.js: The main application component.
+##### App.js: The main application component.
 index.js: Entry point for the React application.
 package.json: Configuration file with project dependencies and scripts.
 Contributing

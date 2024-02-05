@@ -41,8 +41,8 @@ This will start the development server, and you can view the app by navigating t
 ### Folder Structure
 The project structure is organized as follows:
 
-public/: Contains the HTML file and other public assets.
-src/: Contains the React application source code.
+#### public/: Contains the HTML file and other public assets.
+#### src/: Contains the React application source code.
 components/: React components for the counter and other UI elements.
 App.js: The main application component.
 index.js: Entry point for the React application.

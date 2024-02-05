@@ -53,6 +53,6 @@ If you would like to contribute to the project, feel free to fork the repository
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+### Acknowledgments
 This project was inspired by the need for a simple React counter app for learning purposes.
 Thank you for checking out the React Counter App! Happy coding!

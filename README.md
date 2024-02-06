@@ -50,8 +50,6 @@ package.json: Configuration file with project dependencies and scripts.
 Contributing
 If you would like to contribute to the project, feel free to fork the repository and submit a pull request. Bug reports, feature requests, and feedback are also welcome.
 
-### License
-
 ### Acknowledgments
 This project was inspired by the need for a simple React counter app for learning purposes.
 Thank you for checking out the React Counter App! Happy coding!

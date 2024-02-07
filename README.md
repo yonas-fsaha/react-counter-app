@@ -18,9 +18,6 @@ Installation
 Clone the repository to your local machine:
 git clone https://github.com/yonas-fsaha/react-counter-app.git
 Navigate to the project directory:
-
-### bash
-Copy code
 cd react-counter-app
 Install the dependencies:
 

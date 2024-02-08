@@ -14,12 +14,12 @@ Make sure you have the following installed on your machine:
 
 ### Node.js
 npm (Node Package Manager)
-Installation
+#### Installation
 Clone the repository to your local machine:
 git clone https://github.com/yonas-fsaha/react-counter-app.git
 Navigate to the project directory:
 cd react-counter-app
-Install the dependencies:
+#### Install the dependencies:
 npm install
 Running the App
 After completing the installation, you can run the React Counter App with the following command:

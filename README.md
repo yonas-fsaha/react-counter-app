@@ -18,9 +18,8 @@ npm (Node Package Manager)
 ##### Clone the repository to your local machine: git clone https://github.com/yonas-fsaha/react-counter-app.git
 ##### Navigate to the project directory: cd react-counter-app
 #### Install the dependencies:
-npm install
+###### npm install
 Running the App
-After completing the installation, you can run the React Counter App with the following command:
 npm start
 This will start the development server, and you can view the app by navigating to http://localhost:3000 in your web browser.
 

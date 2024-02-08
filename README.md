@@ -23,9 +23,6 @@ Install the dependencies:
 npm install
 Running the App
 After completing the installation, you can run the React Counter App with the following command:
-
-### bash
-Copy code
 npm start
 This will start the development server, and you can view the app by navigating to http://localhost:3000 in your web browser.
 

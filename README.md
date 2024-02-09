@@ -29,7 +29,7 @@ The project structure is organized as follows:
 ##### components/: React components for the counter and other UI elements.
 ##### App.js: The main application component.
 ##### index.js: Entry point for the React application.
-package.json: Configuration file with project dependencies and scripts.
+##### package.json: Configuration file with project dependencies and scripts.
 Contributing
 If you would like to contribute to the project, feel free to fork the repository and submit a pull request. Bug reports, feature requests, and feedback are also welcome.
 
